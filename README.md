@@ -1,12 +1,12 @@
 # Compiler_Design_Lab
 
-# CDLab
-
 COMPILER DESIGN LAB EXPERIMENTS/PROGRAMS Requirements Python 3.6+ How to Run? Install Python 3.6+ Clone this repository In command line type:
 
 python ex[exercise-number].py
 
-Experiments List Ex.1 - Lexical Analyzer
+Experiments List 
+
+Ex.1 - Lexical Analyzer
 
 Ex.2 - Regular Expression to NFA
 
